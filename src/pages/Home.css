@@ -1,0 +1,9 @@
+ion-toolbar {
+  position: absolute;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    360deg,
+    rgba(0, 0, 0, 0.15216508966867992) 0%,
+    rgba(0, 0, 0, 0.1) 100%
+  );
+}
